@@ -3,6 +3,7 @@
 Hi everyone,
 
 I'm excited to share with you the dataset that I've compiled using the Index/Match function from our master data. Utilizing the power of Excel's Index/Match combination, I've been able to efficiently pull specific information from our master dataset, ensuring accuracy and reliability in our analysis.
+
 ##Snapshot of the master data
 
 -Snap_1 ![Master data](https://github.com/01-Vishal/Index-Match-Usage/assets/142687548/bf163c2c-75ec-4861-8daf-403f2339cedc)
